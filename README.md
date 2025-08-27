@@ -1,3 +1,5 @@
+![Alt text](logo.png)
+
 Do✔ - Your Ultimate To-Do List App ✅
 Welcome to Do✔ — the sleek, smart, and super easy-to-use Flutter app designed to keep your tasks organized and your day on track! 🎉🗓️
 
